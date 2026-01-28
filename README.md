@@ -436,15 +436,27 @@ Com base neste PRD, gere um MVP com:
 5) componentes de UI para gráficos e filtros
 6) critérios de aceite por funcionalidade
 Tom: educativo, acessível, pt-BR.
-Sem integrações bancárias e sem cotações automáticas no MVP. ```
+Sem integrações bancárias e sem cotações automáticas no MVP.
+```
 
 - Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
+- Prints ou pequenos vídeos das interações com a IA;
+https://lovable.dev/projects/e999c3bf-9939-40fd-8e88-38278f2bf281
+ 
+<img width="1272" height="804" alt="image" src="https://github.com/user-attachments/assets/c381a85a-cb2a-42ee-9cac-8566c87eb9c8" />
+
+ 
 - Um resumo do que o seu **App de Finanças Pessoais** faz;  
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+  - O que funcionou bem?
+    O aplicativo funcionou bem para registrar os gastos do mês. Além disso, ele dá dicas para que eu possa economizar e atingir minhas metas. 
+  - O que não funcionou como o esperado?
+   A princípio quis inserir uma função que possibilitasse também controlar os investimentos feitos com o dinheiro da conta. Além disso, tive problemas com o aplicativo para definir os tipos de investimentos que eu poderia aderir no aplicativo.
+
   - O que aprendeu sobre conversar com IAs?
+    A IA responde melhor quando eu dou contexto + restrições claras, por exemplo: “é MVP”, “sem integração bancária”, “tom educativo”, “quais telas”, “quais dados”.
+  Aprendi que é importante fazer perguntas do tipo: “o que entra e o que não entra?” e pedir critérios de aceite, porque isso transforma uma ideia em algo construível.
+  Também percebi que conversar com IA é um processo iterativo: eu preciso refinar (testar, ajustar, esclarecer) em vez de esperar que tudo fique perfeito no primeiro prompt.
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
